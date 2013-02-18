@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[console.groupCollapsed(${1:name})$0]]></content>
+	<tabTrigger><![CDATA[>groupCollapsed]]></tabTrigger>
+	<scope>source.js</scope>
+	<description>console.groupCollapsed(name)</description>
+</snippet>
