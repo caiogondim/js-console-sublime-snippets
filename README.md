@@ -12,6 +12,8 @@ Snippets are the fastest way to code.
 To trigger a method of the [Console API](http://getfirebug.com/wiki/index.php/Console_API)
 just put a `>` followed by it's name, like so:
 
+![snippets](https://raw.github.com/caiogondim/js-console-sublime-snippets/master/snippets.gif)
+
 `>log` expands to `console.log()`
 
 `>info` expands to `console.info()`
