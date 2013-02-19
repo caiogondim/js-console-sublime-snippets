@@ -22,3 +22,26 @@ You got the point.
 
 If you're more into code completion, we got you covered too.
 Just start typing the name of the method and the methods should start appearing.
+
+## Methods covered
+
+- console.assert()
+- console.clear()
+- console.count()
+- console.debug()
+- console.dir()
+- console.dirxml()
+- console.error()
+- console.exception()
+- console.group()
+- console.groupCollapsed()
+- console.groupEnd()
+- console.info()
+- console.log()
+- console.profile()
+- console.profileEnd()
+- console.tab()
+- console.time()
+- console.timeEnd()
+- console.timeStamp()
+- console.warn()
