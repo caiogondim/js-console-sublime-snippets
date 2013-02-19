@@ -2,5 +2,5 @@
 	<content><![CDATA[console.assert(${1:assertion}, ${2:message})$0]]></content>
 	<tabTrigger><![CDATA[console.]]></tabTrigger>
 	<scope>source.js</scope>
-	<description>console.assert(assertion, message)</description>
+	<description>.assert(assertion, message)</description>
 </snippet>
