@@ -25,6 +25,8 @@ You got the point.
 If you're more into code completion, we got you covered too.
 Just start typing the name of the method and the methods should start appearing.
 
+![console](https://raw.github.com/caiogondim/js-console-sublime-snippets/master/console.png)
+
 ## Methods covered
 
 - console.assert()
