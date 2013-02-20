@@ -4,7 +4,7 @@ Snippets and Code completion for Sublime Text 2.
 
 ## Installing
 
-Install through [Pacakege Control](http://wbond.net/sublime_packages/package_control)
+Install through [Package Control](http://wbond.net/sublime_packages/package_control)
 
 ## Snippets
 
