@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[console.groupEnd]]></content>
+	<tabTrigger><![CDATA[>groupEnd]]></tabTrigger>
+	<scope>source.coffee</scope>
+	<description>console.groupEnd</description>
+</snippet>

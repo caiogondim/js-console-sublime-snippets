@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[console.info $1]]></content>
+	<tabTrigger><![CDATA[>info]]></tabTrigger>
+	<scope>source.coffee</scope>
+	<description>console.info</description>
+</snippet>

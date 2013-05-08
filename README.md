@@ -1,6 +1,7 @@
 # JavaScript Console Sublime Text snippets
 
 Snippets and Code completion for Sublime Text 2.
+Works inside JavaScript and CoffeeScript syntax.
 
 ## Installing
 
@@ -49,3 +50,8 @@ Just start typing the name of the method and the methods should start appearing.
 - console.timeEnd()
 - console.timeStamp()
 - console.warn()
+
+## Changelog
+
+- 0.2: added support for CoffeeScript
+- 0.1: first release

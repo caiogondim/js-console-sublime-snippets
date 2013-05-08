@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[console.dirxml ${1:node}]]></content>
+	<tabTrigger><![CDATA[>dirxml]]></tabTrigger>
+	<scope>source.coffee</scope>
+	<description>console.dirxml node</description>
+</snippet>
