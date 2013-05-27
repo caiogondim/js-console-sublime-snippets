@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[console.count ${1:[title]}]]></content>
+	<tabTrigger><![CDATA[console.]]></tabTrigger>
+	<scope>source.coffee</scope>
+	<description>console.count [title]</description>
+</snippet>

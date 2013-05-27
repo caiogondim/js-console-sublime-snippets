@@ -1,10 +1,17 @@
-# JavaScript Console Sublime Text snippets
+# JavaScript Console snippets
+
+<img src="https://raw.github.com/caiogondim/js-console-sublime-snippets/master/js-console-snippets-logo.png" alt="JS Console snippets" align="right" width="250" />
 
 Snippets and Code completion for Sublime Text 2.
+Works with JavaScript and CoffeeScript syntax.
 
-## Installing
+To install through [Package Control](http://wbond.net/sublime_packages/package_control),
+search for **JavaScript Console**. If you still don't have Package Control in Sublime Text, [go get it](http://wbond.net/sublime_packages/package_control/installation).
+It's pure awesomeness. If you insist to not install it, you can download the package and
+put it manually inside your `Pacakages` directory. It should work but will not update automatically.
 
-Install through [Package Control](http://wbond.net/sublime_packages/package_control)
+You can get the documentation about each method in the [Firebug API documentation](http://getfirebug.com/wiki/index.php/Console_API)
+or the [Chrome DevTools documentation](https://developers.google.com/chrome-developer-tools/docs/console).
 
 ## Snippets
 
@@ -49,3 +56,8 @@ Just start typing the name of the method and the methods should start appearing.
 - console.timeEnd()
 - console.timeStamp()
 - console.warn()
+
+## Changelog
+
+- 0.2: added support for CoffeeScript
+- 0.1: first release

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[console.warn $1]]></content>
+	<tabTrigger><![CDATA[console.]]></tabTrigger>
+	<scope>source.coffee</scope>
+	<description>console.warn</description>
+</snippet>

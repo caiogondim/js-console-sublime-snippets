@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[console.exception ${1:error-object}${2:, ${3:object}}]]></content>
+	<tabTrigger><![CDATA[console.]]></tabTrigger>
+	<scope>source.coffee</scope>
+	<description>console.exception error-object[, object, ...]</description>
+</snippet>

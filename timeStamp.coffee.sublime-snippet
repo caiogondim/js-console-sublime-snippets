@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[console.timeStamp ${1:name}]]></content>
+	<tabTrigger><![CDATA[>timeStamp]]></tabTrigger>
+	<scope>source.coffee</scope>
+	<description>console.timeStamp name</description>
+</snippet>

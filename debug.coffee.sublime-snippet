@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[console.debug ${1:object}]]></content>
+	<tabTrigger><![CDATA[>debug]]></tabTrigger>
+	<scope>source.coffee</scope>
+	<description>console.debug object</description>
+</snippet>
