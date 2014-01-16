@@ -1,0 +1,28 @@
+{
+  "name": "js-console-sublime-snippets",
+  "version": "0.0.0",
+  "description": "Sublime Text snippets for JavaScript Console API",
+  "main": "grunt",
+  "scripts": {
+    "test": "grunt test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/caiogondim/js-console-sublime-snippets.git"
+  },
+  "keywords": [
+    "javascript",
+    "js",
+    "console"
+  ],
+  "author": "Caio Gondim",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/caiogondim/js-console-sublime-snippets/issues"
+  },
+  "homepage": "https://github.com/caiogondim/js-console-sublime-snippets",
+  "devDependencies": {
+    "grunt": "~0.4.2",
+    "grunt-lintspaces": "~0.3.1"
+  }
+}
