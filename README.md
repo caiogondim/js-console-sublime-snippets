@@ -1,4 +1,4 @@
-# JavaScript Console snippets
+# JavaScript Console snippets [![Build Status](https://secure.travis-ci.org/caiogondim/js-console-sublime-snippets.png?branch=master)](https://travis-ci.org/caiogondim/js-console-sublime-snippets)
 
 <img src="https://raw.github.com/caiogondim/js-console-sublime-snippets/master/js-console-snippets-logo.png" alt="JS Console snippets" align="right" width="250" />
 
