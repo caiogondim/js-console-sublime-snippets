@@ -58,11 +58,6 @@ Just start typing the name of the method and the methods should start appearing.
 - console.timeStamp()
 - console.warn()
 
-## Changelog
-
-- 0.2: added support for CoffeeScript
-- 0.1: first release
-
 ## License
 
 The MIT License (MIT)
