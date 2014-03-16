@@ -52,6 +52,7 @@ Just start typing the name of the method and the methods should start appearing.
 - console.profile()
 - console.profileEnd()
 - console.tab()
+- console.table()
 - console.time()
 - console.timeEnd()
 - console.timeStamp()
