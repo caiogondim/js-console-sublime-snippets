@@ -1,6 +1,6 @@
 {
   "name": "js-console-sublime-snippets",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "description": "Sublime Text snippets for JavaScript Console API",
   "main": "grunt",
   "scripts": {
