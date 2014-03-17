@@ -1,6 +1,6 @@
 {
   "name": "js-console-sublime-snippets",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Sublime Text snippets for JavaScript Console API",
   "main": "grunt",
   "scripts": {
@@ -23,6 +23,7 @@
   "homepage": "https://github.com/caiogondim/js-console-sublime-snippets",
   "devDependencies": {
     "grunt": "~0.4.2",
-    "grunt-lintspaces": "~0.3.1"
+    "grunt-lintspaces": "~0.3.1",
+    "grunt-bump": "0.0.13"
   }
 }
