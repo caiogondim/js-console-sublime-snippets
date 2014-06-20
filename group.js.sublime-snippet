@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[console.group(${1:name})$0]]></content>
+	<content><![CDATA[console.group(${1:name});$0]]></content>
 	<tabTrigger><![CDATA[>group]]></tabTrigger>
 	<scope>source.js</scope>
 	<description>console.group(name)</description>
